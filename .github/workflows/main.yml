@@ -26,4 +26,3 @@ jobs:
           cd /var/www/ci_cd_pipeline/
           git pull origin master
           git status
-          npm install --only=prod
